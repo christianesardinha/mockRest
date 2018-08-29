@@ -1,5 +1,11 @@
 {
-  "verify": [
+  "subscription": [
+    {
+      "message": "subscription succesfully created.",
+	  "code": "code"
+    }
+  ],
+  "subscription/verify": [
     {
       "message": "User will be subscribed by trial",
 	  "code": 0
