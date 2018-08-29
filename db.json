@@ -1,0 +1,11 @@
+{
+  "verify": [
+    {
+      "message": "User will be subscribed by trial",
+	  "code": 0
+    }
+  ],
+  "profile": {
+    "name": "mockRest"
+  }
+}
