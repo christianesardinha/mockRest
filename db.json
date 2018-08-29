@@ -1,17 +1,11 @@
 {
   "subscription": [
-    {
-      "message": "subscription succesfully created.",
-	  "code": "code"
-    }
+    { "message": "subscription succesfully created.", "code": "code" }
   ],
   "subscription/verify": [
-    {
-      "message": "User will be subscribed by trial",
-	  "code": 0
-    }
+    { "message": "User will be subscribed by trial", "code": "0" }
   ],
   "profile": {
-    "name": "mockRest"
+    "name": "typicode"
   }
 }
